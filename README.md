@@ -1,7 +1,7 @@
 # MarinZhang
 <img src="">
 <p>
-  <a href="https://www.linkedin.com/in/leizu-zhang-620046215/"><img width="150" align='right' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGCX4a6bbwuWkYyl3S_9lNQ-RJQjal4DYmdQ&s"></a>
+  <a href="https://www.linkedin.com/in/leizu-zhang-620046215/"><img width="150" align='right' src="https://photos.fife.usercontent.google.com/pw/AP1GczP-VUET76GGqCVMUEdoLJTAOeFy4oUmUvv1H56hKv9K9-68JTSSjaI6=w3024-h1100-s-no-gm?authuser=0"></a>
 </p>
 <h1>Hey there, I am currently a student in Columbia University persuing MA in QMSS. 👌✨</h1>
 <p>I am doing data analysis and machine learning project. 👀👀👀</p>
